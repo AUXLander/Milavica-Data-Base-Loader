@@ -1,0 +1,7 @@
+C:\Users\TERMINAL\source\repos\DataBase Milavica Shop Loader\DataBase Milavica Shop Loader\obj\Debug\DataBase Milavica Shop Loader.csprojResolveAssemblyReference.cache
+C:\Users\TERMINAL\source\repos\DataBase Milavica Shop Loader\DataBase Milavica Shop Loader\obj\Debug\DataBase Milavica Shop Loader.csproj.CoreCompileInputs.cache
+C:\Users\TERMINAL\source\repos\DataBase Milavica Shop Loader\DataBase Milavica Shop Loader\bin\Debug\DataBase Milavica Shop Loader.exe.config
+C:\Users\TERMINAL\source\repos\DataBase Milavica Shop Loader\DataBase Milavica Shop Loader\bin\Debug\DataBase Milavica Shop Loader.exe
+C:\Users\TERMINAL\source\repos\DataBase Milavica Shop Loader\DataBase Milavica Shop Loader\bin\Debug\DataBase Milavica Shop Loader.pdb
+C:\Users\TERMINAL\source\repos\DataBase Milavica Shop Loader\DataBase Milavica Shop Loader\obj\Debug\DataBase Milavica Shop Loader.exe
+C:\Users\TERMINAL\source\repos\DataBase Milavica Shop Loader\DataBase Milavica Shop Loader\obj\Debug\DataBase Milavica Shop Loader.pdb
